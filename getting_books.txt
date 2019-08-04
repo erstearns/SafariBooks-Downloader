@@ -1,0 +1,19 @@
+#Python data science book
+safaribooks-downloader -b 9781491912126 -u logic2020 -p SODO123 -o /../../Users/erinrstearns/Dropbox/needs_folder/PythonDataScienceHandbook.epub
+
+#Python machine learning book
+safaribooks-downloader -b 9781492032632 -u logic2020 -p SODO123 -o /../../Users/erinrstearns/Dropbox/needs_folder/HandsOnMachineLearningWithScikitLearnKerasTensorFlow.epub
+
+
+#python for data analysis
+safaribooks-downloader -b 9781491957653 -u logic2020 -p SODO123 -o /../../Users/erinrstearns/Dropbox/needs_folder/PythonForDataAnalysis.epub
+
+
+#fluent python
+safaribooks-downloader -b 9781491946237 -u logic2020 -p SODO123 -o /../../Users/erinrstearns/Dropbox/needs_folder/FluentPython.epub
+
+# 'book yourself solid'
+safaribooks-downloader -b 9781118611357 -u logic2020 -p SODO123 -o /../../Users/erinrstearns/Dropbox/needs_folder/BookYourselfSolid.epub
+
+# 'Ubuntu Unleashed 2019 Edition'
+safaribooks-downloader -b 9780134985497 -u logic2020 -p SODO123 -o /../../Users/erinrstearns/Dropbox/needs_folder/UbuntuUnleashed.epub
