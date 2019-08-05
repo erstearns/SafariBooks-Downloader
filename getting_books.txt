@@ -17,3 +17,5 @@ safaribooks-downloader -b 9781118611357 -u logic2020 -p SODO123 -o /../../Users/
 
 # 'Ubuntu Unleashed 2019 Edition'
 safaribooks-downloader -b 9780134985497 -u logic2020 -p SODO123 -o /../../Users/erinrstearns/Dropbox/needs_folder/UbuntuUnleashed.epub
+# on bmgf machine
+safaribooks-downloader -b 9780134985497 -u logic2020 -p SODO123 -o /../../Users/erinste/Desktop/UbuntuUnleashed.epub
